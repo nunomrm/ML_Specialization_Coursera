@@ -2,7 +2,7 @@ Contains my solutions for the programming lab assignments of the [Machine Learni
 
 ## Prerequesites
 * Python 3 (recommended v3.6 or above)
-* Jupyter Notebook [Download and install Jupyter](https://jupyter.org/install)
+* Jupyter Notebook ([Download and install Jupyter](https://jupyter.org/install))
 
 ## Usage
 Explore the course materials and run Python3 in the Jupyter notebook files (```.ipynb```). In case you're not familiar with Jupyter notebooks, here's a [tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) that might help.
