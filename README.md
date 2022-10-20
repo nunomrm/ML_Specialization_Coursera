@@ -1,6 +1,11 @@
-Contains my solutions for the programming lab assignments of the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll&utm_campaign=social-andrew-linkedin-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai) course from Coursera, by [Andrew Ng](https://www.andrewng.org/). 
+Contains my solutions for the programming lab assignments of the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?action=enroll&utm_campaign=social-andrew-linkedin-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai) provided by Coursera and teached by [Andrew Ng](https://www.andrewng.org/). 
 
 **NOTE:** The first four optional labs from week 1, course 1 of this specialization are not showcased.
+
+## Specialization outline
+* Course 1: *Supervised Machine Learning: Regression and Classification*
+* Course 2: *Advanced Learning Algorithms*
+* Course 3: *Unsupervised Learning, Recommenders, Reinforcement Learning*
 
 ## Prerequesites
 * Python 3 (recommended v3.6 or above)
